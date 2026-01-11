@@ -2,5 +2,3 @@ flet
 requests
 curl_cffi
 beautifulsoup4
-
-AIzaSyDYFm3smVwoFoZk3oTasJhguNA96CjQEEg
